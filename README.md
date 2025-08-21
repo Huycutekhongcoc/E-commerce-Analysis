@@ -27,7 +27,7 @@ Created 3 interactive dashboards using Tableau to analyze different aspects of t
 <img width="1200" height="700" alt="Screenshot 2025-07-18 020932" src="https://github.com/user-attachments/assets/64e6b00f-08f5-41f6-9d27-0068dea948a0" />
 
 
-📎 Dashboards on Tableau Public: [Link](https://public.tableau.com/app/profile/y.ho.thi.ngoc/viz/Nhom11_ProjectCK/SalesPerformance)
+📎 Dashboards on Tableau Public: [Link](https://public.tableau.com/views/E-commerceAnalysis_17557736653250/SalesPerformance?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## 🧠 Insights Summary
 - **High return rate** of 18.4% indicates a need to improve logistics, product descriptions or customer support.
